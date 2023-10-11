@@ -1,6 +1,6 @@
 # Magic colors hoverboard
 
-[![Magic colors hoverboard](assets/git-screenshot01.png)](https://codenaud.github.io/magic-colors/)
+[![Magic colors hoverboard](assets/git-screenshots.png)](https://codenaud.github.io/magic-colors/)
 
 ## Description
 
